@@ -84,7 +84,7 @@ export const navItems = [
       des: "A minimalistic portfolio site.",
       img: "/portfolio.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
-      link: "/home",
+      link: "",
     },
   
   ];
